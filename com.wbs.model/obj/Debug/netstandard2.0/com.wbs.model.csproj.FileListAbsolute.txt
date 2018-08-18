@@ -1,0 +1,17 @@
+E:\Visual Studio project\CRM\com.wbs.model\bin\Debug\netstandard2.0\com.wbs.model.deps.json
+E:\Visual Studio project\CRM\com.wbs.model\bin\Debug\netstandard2.0\com.wbs.model.dll
+E:\Visual Studio project\CRM\com.wbs.model\bin\Debug\netstandard2.0\com.wbs.model.pdb
+E:\Visual Studio project\CRM\com.wbs.model\obj\Debug\netstandard2.0\com.wbs.model.csproj.CoreCompileInputs.cache
+E:\Visual Studio project\CRM\com.wbs.model\obj\Debug\netstandard2.0\com.wbs.model.AssemblyInfoInputs.cache
+E:\Visual Studio project\CRM\com.wbs.model\obj\Debug\netstandard2.0\com.wbs.model.AssemblyInfo.cs
+E:\Visual Studio project\CRM\com.wbs.model\obj\Debug\netstandard2.0\com.wbs.model.dll
+E:\Visual Studio project\CRM\com.wbs.model\obj\Debug\netstandard2.0\com.wbs.model.pdb
+E:\VisualStudioproject\CRM\com.wbs.model\bin\Debug\netstandard2.0\com.wbs.model.deps.json
+E:\VisualStudioproject\CRM\com.wbs.model\bin\Debug\netstandard2.0\com.wbs.model.dll
+E:\VisualStudioproject\CRM\com.wbs.model\bin\Debug\netstandard2.0\com.wbs.model.pdb
+E:\VisualStudioproject\CRM\com.wbs.model\obj\Debug\netstandard2.0\com.wbs.model.csproj.CoreCompileInputs.cache
+E:\VisualStudioproject\CRM\com.wbs.model\obj\Debug\netstandard2.0\com.wbs.model.AssemblyInfoInputs.cache
+E:\VisualStudioproject\CRM\com.wbs.model\obj\Debug\netstandard2.0\com.wbs.model.AssemblyInfo.cs
+E:\VisualStudioproject\CRM\com.wbs.model\obj\Debug\netstandard2.0\com.wbs.model.dll
+E:\VisualStudioproject\CRM\com.wbs.model\obj\Debug\netstandard2.0\com.wbs.model.pdb
+E:\VisualStudioproject\CRM\com.wbs.model\obj\Debug\netstandard2.0\com.wbs.model.csprojAssemblyReference.cache
