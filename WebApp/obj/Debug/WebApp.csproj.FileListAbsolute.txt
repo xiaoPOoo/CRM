@@ -1,0 +1,405 @@
+E:\Visual Studio project\CRM\WebApp\bin\ApplicationInsights.config
+E:\Visual Studio project\CRM\WebApp\bin\WebApp.dll.config
+E:\Visual Studio project\CRM\WebApp\bin\WebApp.dll
+E:\Visual Studio project\CRM\WebApp\bin\WebApp.pdb
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\csc.exe
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\csc.exe.config
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\csc.rsp
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\csi.exe
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\csi.exe.config
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\csi.rsp
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\System.AppContext.dll
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\System.Collections.Immutable.dll
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\System.Console.dll
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\System.IO.Compression.dll
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\System.IO.FileSystem.dll
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\System.IO.Pipes.dll
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\System.Security.AccessControl.dll
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\System.Security.Claims.dll
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\System.ValueTuple.dll
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\System.Xml.XPath.dll
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\vbc.exe
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\vbc.exe.config
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\vbc.rsp
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\VBCSCompiler.exe
+E:\Visual Studio project\CRM\WebApp\bin\roslyn\VBCSCompiler.exe.config
+E:\Visual Studio project\CRM\WebApp\bin\Microsoft.Win32.Primitives.dll
+E:\Visual Studio project\CRM\WebApp\bin\netstandard.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.AppContext.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Collections.Concurrent.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Collections.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Collections.NonGeneric.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Collections.Specialized.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.ComponentModel.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.ComponentModel.EventBasedAsync.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.ComponentModel.Primitives.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.ComponentModel.TypeConverter.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Console.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Data.Common.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Diagnostics.Contracts.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Diagnostics.Debug.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Diagnostics.FileVersionInfo.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Diagnostics.Process.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Diagnostics.StackTrace.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Diagnostics.TextWriterTraceListener.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Diagnostics.Tools.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Diagnostics.TraceSource.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Diagnostics.Tracing.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Drawing.Primitives.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Dynamic.Runtime.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Globalization.Calendars.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Globalization.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Globalization.Extensions.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.IO.Compression.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.IO.Compression.ZipFile.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.IO.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.IO.FileSystem.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.IO.FileSystem.DriveInfo.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.IO.FileSystem.Primitives.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.IO.FileSystem.Watcher.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.IO.IsolatedStorage.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.IO.MemoryMappedFiles.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.IO.Pipes.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.IO.UnmanagedMemoryStream.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Linq.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Linq.Expressions.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Linq.Parallel.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Linq.Queryable.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Net.Http.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Net.NameResolution.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Net.NetworkInformation.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Net.Ping.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Net.Primitives.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Net.Requests.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Net.Security.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Net.Sockets.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Net.WebHeaderCollection.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Net.WebSockets.Client.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Net.WebSockets.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.ObjectModel.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Reflection.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Reflection.Extensions.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Reflection.Primitives.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Resources.Reader.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Resources.ResourceManager.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Resources.Writer.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Runtime.CompilerServices.VisualC.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Runtime.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Runtime.Extensions.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Runtime.Handles.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Runtime.InteropServices.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Runtime.Numerics.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Runtime.Serialization.Formatters.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Runtime.Serialization.Json.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Runtime.Serialization.Primitives.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Runtime.Serialization.Xml.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Security.Claims.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Security.Cryptography.Algorithms.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Security.Cryptography.Csp.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Security.Cryptography.Encoding.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Security.Cryptography.Primitives.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Security.Cryptography.X509Certificates.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Security.Principal.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Security.SecureString.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Text.Encoding.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Text.Encoding.Extensions.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Text.RegularExpressions.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Threading.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Threading.Overlapped.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Threading.Tasks.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Threading.Tasks.Parallel.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Threading.Thread.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Threading.ThreadPool.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Threading.Timer.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.ValueTuple.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Xml.ReaderWriter.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Xml.XDocument.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Xml.XmlDocument.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Xml.XmlSerializer.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Xml.XPath.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Xml.XPath.XDocument.dll
+E:\Visual Studio project\CRM\WebApp\bin\Antlr3.Runtime.dll
+E:\Visual Studio project\CRM\WebApp\bin\com.wbs.bll.dll
+E:\Visual Studio project\CRM\WebApp\bin\com.wbs.dao.dll
+E:\Visual Studio project\CRM\WebApp\bin\com.wbs.model.dll
+E:\Visual Studio project\CRM\WebApp\bin\commen.dll
+E:\Visual Studio project\CRM\WebApp\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Visual Studio project\CRM\WebApp\bin\Microsoft.AI.DependencyCollector.dll
+E:\Visual Studio project\CRM\WebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Visual Studio project\CRM\WebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Visual Studio project\CRM\WebApp\bin\Microsoft.AI.Web.dll
+E:\Visual Studio project\CRM\WebApp\bin\Microsoft.AI.WindowsServer.dll
+E:\Visual Studio project\CRM\WebApp\bin\Microsoft.ApplicationInsights.dll
+E:\Visual Studio project\CRM\WebApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Visual Studio project\CRM\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Visual Studio project\CRM\WebApp\bin\Microsoft.Web.Infrastructure.dll
+E:\Visual Studio project\CRM\WebApp\bin\Newtonsoft.Json.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Web.Helpers.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Web.Mvc.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Web.Optimization.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Web.Razor.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Web.WebPages.Deployment.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Web.WebPages.dll
+E:\Visual Studio project\CRM\WebApp\bin\System.Web.WebPages.Razor.dll
+E:\Visual Studio project\CRM\WebApp\bin\WebGrease.dll
+E:\Visual Studio project\CRM\WebApp\bin\com.wbs.bll.pdb
+E:\Visual Studio project\CRM\WebApp\bin\com.wbs.dao.pdb
+E:\Visual Studio project\CRM\WebApp\bin\com.wbs.model.pdb
+E:\Visual Studio project\CRM\WebApp\bin\commen.pdb
+E:\Visual Studio project\CRM\WebApp\bin\System.Web.Helpers.xml
+E:\Visual Studio project\CRM\WebApp\bin\System.Web.Mvc.xml
+E:\Visual Studio project\CRM\WebApp\bin\System.Web.Optimization.xml
+E:\Visual Studio project\CRM\WebApp\bin\System.Web.Razor.xml
+E:\Visual Studio project\CRM\WebApp\bin\System.Web.WebPages.xml
+E:\Visual Studio project\CRM\WebApp\bin\System.Web.WebPages.Deployment.xml
+E:\Visual Studio project\CRM\WebApp\bin\System.Web.WebPages.Razor.xml
+E:\Visual Studio project\CRM\WebApp\bin\Newtonsoft.Json.xml
+E:\Visual Studio project\CRM\WebApp\bin\Antlr3.Runtime.pdb
+E:\Visual Studio project\CRM\WebApp\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Visual Studio project\CRM\WebApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Visual Studio project\CRM\WebApp\bin\Microsoft.AI.DependencyCollector.xml
+E:\Visual Studio project\CRM\WebApp\bin\Microsoft.AI.WindowsServer.xml
+E:\Visual Studio project\CRM\WebApp\bin\Microsoft.AI.Web.xml
+E:\Visual Studio project\CRM\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Visual Studio project\CRM\WebApp\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\Visual Studio project\CRM\WebApp\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\Visual Studio project\CRM\WebApp\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\Visual Studio project\CRM\WebApp\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\Visual Studio project\CRM\WebApp\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\Visual Studio project\CRM\WebApp\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\Visual Studio project\CRM\WebApp\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\Visual Studio project\CRM\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+E:\Visual Studio project\CRM\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+E:\Visual Studio project\CRM\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+E:\Visual Studio project\CRM\WebApp\obj\Debug\WebApp.dll
+E:\Visual Studio project\CRM\WebApp\obj\Debug\WebApp.pdb
+E:\VisualStudioproject\CRM\WebApp\bin\ApplicationInsights.config
+E:\VisualStudioproject\CRM\WebApp\bin\WebApp.dll.config
+E:\VisualStudioproject\CRM\WebApp\bin\WebApp.dll
+E:\VisualStudioproject\CRM\WebApp\bin\WebApp.pdb
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\csc.exe
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\csc.exe.config
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\csc.rsp
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\csi.exe
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\csi.exe.config
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\csi.rsp
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\System.AppContext.dll
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\System.Collections.Immutable.dll
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\System.Console.dll
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\System.IO.Compression.dll
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\System.IO.FileSystem.dll
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\System.IO.Pipes.dll
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\System.Security.AccessControl.dll
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\System.Security.Claims.dll
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\System.ValueTuple.dll
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\System.Xml.XPath.dll
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\vbc.exe
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\vbc.exe.config
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\vbc.rsp
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\VBCSCompiler.exe
+E:\VisualStudioproject\CRM\WebApp\bin\roslyn\VBCSCompiler.exe.config
+E:\VisualStudioproject\CRM\WebApp\bin\Microsoft.Win32.Primitives.dll
+E:\VisualStudioproject\CRM\WebApp\bin\netstandard.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.AppContext.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Collections.Concurrent.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Collections.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Collections.NonGeneric.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Collections.Specialized.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.ComponentModel.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.ComponentModel.EventBasedAsync.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.ComponentModel.Primitives.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.ComponentModel.TypeConverter.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Console.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Data.Common.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Diagnostics.Contracts.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Diagnostics.Debug.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Diagnostics.FileVersionInfo.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Diagnostics.Process.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Diagnostics.StackTrace.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Diagnostics.TextWriterTraceListener.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Diagnostics.Tools.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Diagnostics.TraceSource.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Diagnostics.Tracing.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Drawing.Primitives.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Dynamic.Runtime.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Globalization.Calendars.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Globalization.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Globalization.Extensions.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.IO.Compression.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.IO.Compression.ZipFile.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.IO.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.IO.FileSystem.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.IO.FileSystem.DriveInfo.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.IO.FileSystem.Primitives.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.IO.FileSystem.Watcher.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.IO.IsolatedStorage.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.IO.MemoryMappedFiles.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.IO.Pipes.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.IO.UnmanagedMemoryStream.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Linq.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Linq.Expressions.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Linq.Parallel.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Linq.Queryable.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Net.Http.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Net.NameResolution.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Net.NetworkInformation.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Net.Ping.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Net.Primitives.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Net.Requests.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Net.Security.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Net.Sockets.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Net.WebHeaderCollection.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Net.WebSockets.Client.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Net.WebSockets.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.ObjectModel.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Reflection.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Reflection.Extensions.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Reflection.Primitives.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Resources.Reader.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Resources.ResourceManager.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Resources.Writer.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Runtime.CompilerServices.VisualC.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Runtime.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Runtime.Extensions.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Runtime.Handles.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Runtime.InteropServices.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Runtime.Numerics.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Runtime.Serialization.Formatters.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Runtime.Serialization.Json.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Runtime.Serialization.Primitives.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Runtime.Serialization.Xml.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Security.Claims.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Security.Cryptography.Algorithms.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Security.Cryptography.Csp.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Security.Cryptography.Encoding.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Security.Cryptography.Primitives.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Security.Cryptography.X509Certificates.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Security.Principal.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Security.SecureString.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Text.Encoding.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Text.Encoding.Extensions.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Text.RegularExpressions.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Threading.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Threading.Overlapped.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Threading.Tasks.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Threading.Tasks.Parallel.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Threading.Thread.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Threading.ThreadPool.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Threading.Timer.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.ValueTuple.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Xml.ReaderWriter.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Xml.XDocument.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Xml.XmlDocument.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Xml.XmlSerializer.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Xml.XPath.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Xml.XPath.XDocument.dll
+E:\VisualStudioproject\CRM\WebApp\bin\Antlr3.Runtime.dll
+E:\VisualStudioproject\CRM\WebApp\bin\com.wbs.bll.dll
+E:\VisualStudioproject\CRM\WebApp\bin\com.wbs.dao.dll
+E:\VisualStudioproject\CRM\WebApp\bin\com.wbs.model.dll
+E:\VisualStudioproject\CRM\WebApp\bin\commen.dll
+E:\VisualStudioproject\CRM\WebApp\bin\Microsoft.AI.Agent.Intercept.dll
+E:\VisualStudioproject\CRM\WebApp\bin\Microsoft.AI.DependencyCollector.dll
+E:\VisualStudioproject\CRM\WebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\VisualStudioproject\CRM\WebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\VisualStudioproject\CRM\WebApp\bin\Microsoft.AI.Web.dll
+E:\VisualStudioproject\CRM\WebApp\bin\Microsoft.AI.WindowsServer.dll
+E:\VisualStudioproject\CRM\WebApp\bin\Microsoft.ApplicationInsights.dll
+E:\VisualStudioproject\CRM\WebApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\VisualStudioproject\CRM\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\VisualStudioproject\CRM\WebApp\bin\Microsoft.Web.Infrastructure.dll
+E:\VisualStudioproject\CRM\WebApp\bin\Newtonsoft.Json.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Diagnostics.DiagnosticSource.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Web.Helpers.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Web.Mvc.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Web.Optimization.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Web.Razor.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Web.WebPages.Deployment.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Web.WebPages.dll
+E:\VisualStudioproject\CRM\WebApp\bin\System.Web.WebPages.Razor.dll
+E:\VisualStudioproject\CRM\WebApp\bin\WebGrease.dll
+E:\VisualStudioproject\CRM\WebApp\bin\com.wbs.bll.pdb
+E:\VisualStudioproject\CRM\WebApp\bin\com.wbs.dao.pdb
+E:\VisualStudioproject\CRM\WebApp\bin\com.wbs.model.pdb
+E:\VisualStudioproject\CRM\WebApp\bin\commen.pdb
+E:\VisualStudioproject\CRM\WebApp\bin\System.Web.Helpers.xml
+E:\VisualStudioproject\CRM\WebApp\bin\System.Web.Mvc.xml
+E:\VisualStudioproject\CRM\WebApp\bin\System.Web.Optimization.xml
+E:\VisualStudioproject\CRM\WebApp\bin\System.Web.Razor.xml
+E:\VisualStudioproject\CRM\WebApp\bin\System.Web.WebPages.xml
+E:\VisualStudioproject\CRM\WebApp\bin\System.Web.WebPages.Deployment.xml
+E:\VisualStudioproject\CRM\WebApp\bin\System.Web.WebPages.Razor.xml
+E:\VisualStudioproject\CRM\WebApp\bin\Newtonsoft.Json.xml
+E:\VisualStudioproject\CRM\WebApp\bin\Antlr3.Runtime.pdb
+E:\VisualStudioproject\CRM\WebApp\bin\System.Diagnostics.DiagnosticSource.xml
+E:\VisualStudioproject\CRM\WebApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\VisualStudioproject\CRM\WebApp\bin\Microsoft.AI.DependencyCollector.xml
+E:\VisualStudioproject\CRM\WebApp\bin\Microsoft.AI.WindowsServer.xml
+E:\VisualStudioproject\CRM\WebApp\bin\Microsoft.AI.Web.xml
+E:\VisualStudioproject\CRM\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\VisualStudioproject\CRM\WebApp\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\VisualStudioproject\CRM\WebApp\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\VisualStudioproject\CRM\WebApp\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\VisualStudioproject\CRM\WebApp\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\VisualStudioproject\CRM\WebApp\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\VisualStudioproject\CRM\WebApp\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\VisualStudioproject\CRM\WebApp\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\VisualStudioproject\CRM\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+E:\VisualStudioproject\CRM\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+E:\VisualStudioproject\CRM\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+E:\VisualStudioproject\CRM\WebApp\obj\Debug\WebApp.dll
+E:\VisualStudioproject\CRM\WebApp\obj\Debug\WebApp.pdb
+E:\VisualStudioproject\CRM\WebApp\bin\LitJSON.dll

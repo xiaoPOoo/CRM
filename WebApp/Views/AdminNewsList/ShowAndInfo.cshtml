@@ -1,0 +1,124 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+
+<html>
+<head>
+
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/tableStyle.css" rel="stylesheet" />
+    <script src="/KinderEditor/kindeditor-min.js"></script>
+    <link rel="stylesheet" href="/KinderEditor/themes/default/default.css" />
+    <link rel="stylesheet" href="/KinderEditor/plugins/code/prettify.css" />
+    <script charset="utf-8" src="/KinderEditor/kindeditor.js"></script>
+    <script charset="utf-8" src="/KinderEditor/lang/zh_CN.js"></script>
+    <script charset="utf-8" src="/KinderEditor/plugins/code/prettify.js"></script>
+    <script src="~/Scripts/jquery-1.7.1.min.js"></script>
+    <script src="~/Scripts/jquery.easyui.min.js"></script>
+    <script src="~/Scripts/easyui-lang-zh_CN.js"></script>
+    <link href="~/jquery-easyui-1.5.5.4/themes/default/easyui.css" rel="stylesheet" />
+    <link href="~/jquery-easyui-1.5.5.4/themes/icon.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <script src="~/Scripts/MyAjaxForm.js"></script>
+    <title>添加新闻</title>
+</head>
+
+<body>
+
+    @using (Ajax.BeginForm("AddNewInfo", "AdminNewList", new AjaxOptions()
+    {
+        HttpMethod = "post",
+        OnSuccess = "afterAdd"
+    }, new { id = "form1", enctype = "multipart/form-data" }))
+    {
+        <div>
+            <table>
+                <tr><td>新闻名称</td><td><input type="text" name="Title" /></td></tr>
+                <tr><td>作者</td><td><input type="text" name="Author" /></td></tr>
+                <tr>
+                    <td>上传图片</td>
+                    <td>
+                        <input run type="file" name="fileUp" id="fileUpImage" />
+                        <input type="button" value="异步上传图片" id="btnFileUp" />
+                        <input type="hidden" id="hidImagePath" name="ImagePath" />
+                        <div id="showImg">
+                            @* 这儿是上传成功的话就显示图片的一个div *@
+                        </div>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>新闻内容</td>
+                    <td>
+                        <textarea id="MsgContent" cols="100" rows="8"
+                                  style="width: 500px; height: 200px;" name="Msg"></textarea>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    }
+
+</body>
+</html>
+
+<script type="text/javascript">
+    KindEditor.ready(function (K) {
+        var editor1 = K.create('#MsgContent', {
+            cssPath: '/KinderEditor/plugins/code/prettify.css',
+            uploadJson: '/KinderEditor/asp.net/upload_json.ashx',
+            fileManagerJson: '/KinderEditor/asp.net/file_manager_json.ashx',
+            allowFileManager: true,
+            afterBlur: function () { this.sync(); },//注意这里（异步提交时需要同步）
+            afterCreate: function () {
+                var self = this;
+                self.sync();//把富文本编辑器的内容放到  文本域里面去。
+
+            }
+        });
+        prettyPrint();//注意要调用该方法.
+    });
+    $(function () {
+        fileUpload();
+    });
+
+
+    function fileUpload() {
+        $("#btnFileUp").click(function () {
+            if ($("#fileUpImage").val() == "") {
+                //如果没有选择好上传的图片
+                $.messager.alert("提示", "请选择上传的图片的文件", "info");
+                return;
+            }
+
+            $("#form1").ajaxSubmit({
+                type: "post",
+                url: "/AdminNewsList/FileUpLoad",
+                success: function (data) {
+                    var serverData = data.split(':');
+                    if (serverData[0] == "ok") {
+                        //上传成功
+                        $("#hidImagePath").val(serverData[1]);//将路径赋值给了隐藏域,提交表单是将提交到服务端，保存到数据库
+                        $("#showImg").append("<img src='" + serverData[1] + "' width='40px' height='40px' />");
+                    } else {
+                        //上传失败
+                        $.messager.alert("提示", serverData[1], "info");
+                    }
+                }
+            });
+        });
+    }
+    //提交表单
+    function subForm() {
+        $("#form1").submit();//提交子窗体
+    }
+
+    function afterAdd() {
+        //添加成功之后，调用此回调函数
+        window.parent.afterAdd();//子窗体调用主窗体里面的方法
+    }
+</script>
+
