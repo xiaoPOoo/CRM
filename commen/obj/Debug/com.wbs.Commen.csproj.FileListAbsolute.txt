@@ -1,0 +1,6 @@
+E:\Visual Studio project\CRM\commen\bin\Debug\commen.dll
+E:\Visual Studio project\CRM\commen\bin\Debug\commen.pdb
+E:\Visual Studio project\CRM\commen\obj\Debug\com.wbs.Commen.csproj.CoreCompileInputs.cache
+E:\Visual Studio project\CRM\commen\obj\Debug\commen.dll
+E:\Visual Studio project\CRM\commen\obj\Debug\commen.pdb
+E:\Visual Studio project\CRM\commen\obj\Debug\com.wbs.Commen.csprojAssemblyReference.cache
