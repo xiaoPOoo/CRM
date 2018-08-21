@@ -15,6 +15,8 @@ namespace WebApp.Controllers
         // GET: NewList
         NewInfoService newInfoService = new NewInfoService();
         NewCommentService commentService = new NewCommentService();
+
+        #region 新闻前台首页
         public ActionResult Index()
         {
             int pageIndex = Request["pageIndex"] != null ? int.Parse(Request["pageIndex"]) : 1;
@@ -28,6 +30,10 @@ namespace WebApp.Controllers
             ViewBag.PageCount = pageCount;
             return View();
         }
+        #endregion
+
+
+        #region 前台展示新闻的详细信息
         public ActionResult ShowDetail()
         {
             int id = int.Parse(Request["id"]);
@@ -35,10 +41,15 @@ namespace WebApp.Controllers
             ViewData.Model = newInfo;
             return View();
         }
+        #endregion
+
+
+
+        #region 添加评论
         public ActionResult AddComment()
         {
             int id = int.Parse(Request["id"]);
-            string msg= Request["msg"];
+            string msg = Request["msg"];
             T_NewComment comment = new T_NewComment();
             comment.Msg = msg;
             comment.NewId = id;
@@ -51,7 +62,11 @@ namespace WebApp.Controllers
             {
                 return Content("no");//评论失败
             }
-        } 
+        }
+        #endregion
+
+
+        #region 加载评论
         public ActionResult LoadComment()
         {
             //加载评论
@@ -68,9 +83,11 @@ namespace WebApp.Controllers
                     viewModel.CreateDateTime = Commen.GetTimeSpan(timeSpan);//返回评论的时间
                     viewModel.Msg = commentInfo.Msg;
                     newlist.Add(viewModel);
-                }               
+                }
             }
             return Json(newlist, JsonRequestBehavior.AllowGet);
         }
+        #endregion
+
     }
 }
